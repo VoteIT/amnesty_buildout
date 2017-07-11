@@ -5,9 +5,8 @@
 .installed.cfg
 .mr.developer*
 .settings
+.idea
 *.pyc
-etc/salt.txt
-etc/login_providers.ini
 bin
 include
 lib
